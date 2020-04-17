@@ -14,7 +14,7 @@ import javax.swing.JFrame;
  * @author abc
  */
 public class notepad {
-    public static void main(String args[]){
+    public static void main(String args[]){ 
     editor obj=new editor();
     obj.setBounds(0,0,700,700);
     obj.setTitle("notepad");
